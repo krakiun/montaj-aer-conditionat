@@ -1,0 +1,4 @@
+baseURL = 'https://montaj-aer-conditionat.recomand.app/'
+languageCode = 'ro-ro'
+title = 'Montaj Aer Conditionat'
+theme = 'ananke'
